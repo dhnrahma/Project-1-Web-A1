@@ -94,6 +94,8 @@ section {
     line-height: 25px;
     font-display: justify;
     padding-bottom: 25px;
+    display: inline;
+    margin-bottom: 25px;
 }
 
 #contact {
